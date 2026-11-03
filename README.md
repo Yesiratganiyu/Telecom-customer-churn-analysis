@@ -38,8 +38,8 @@ Customer churn (customers leaving) is costly for telecom companies. This project
 Focus on keeping customers through their first year, for example by offering discounted rates for the first few months and a discount for switching to a one-year contract.
 
 ## Files
-- `churn_analysis.ipynb`: the full analysis with code, charts and notes
-- `telecom_churn_clean.csv`: the cleaned dataset
-
+- [`churn_analysis.ipynb`](churn_analysis.ipynb): the full analysis with code, charts and notes
+- [`telecom_churn_clean.csv`](telecom_churn_clean.csv): the cleaned dataset
+  
 ## Author
 **Yesirat Ganiyu**: [LinkedIn](https://www.linkedin.com/in/yesirat-ganiyu/)
