@@ -28,11 +28,17 @@ Customer churn (customers leaving) is costly for telecom companies. This project
 
 - ## Charts
 
-![Donut chart showing 26.5% of customers left and 73.5% stayed](churn_donut.png)
+<p align="center">
+  <img src="churn_donut.png" width="500">
+</p>
 
-![Bar chart of churn rate by contract type](churn_by_contract.png)
+<p align="center">
+  <img src="churn_by_contract.png" width="500">
+</p>
 
-![Bar chart of churn rate by tenure group](churn_by_tenure.png)
+<p align="center">
+  <img src="churn_by_tenure.png" width="500">
+</p>
 
 ## Recommendation
 Focus on keeping customers through their first year, for example by offering discounted rates for the first few months and a discount for switching to a one-year contract.
