@@ -13,7 +13,7 @@ Customer churn (customers leaving) is costly for telecom companies. This project
 - **pandas**: cleaning and analysing the data
 - **matplotlib**: creating charts
 - **Jupyter Notebook**: documenting the analysis
-- **AI(Claude)**
+- **AI(Claude)**: used in some code writing and guidance
 
 ## Data Cleaning
 - TotalCharges was stored as text because 11 values were blank
@@ -25,6 +25,14 @@ Customer churn (customers leaving) is costly for telecom companies. This project
 - **Contract type:** month-to-month customers had a churn rate of 42.7%, compared with 6.8% for one- or two-year contracts
 - **Monthly charges:** customers who left paid 74.40 per month on average, compared with 61.30 for those who stayed
 - **Tenure:** 47.4% of customers left in their first year, falling to 9.5% for customers of 4–6 years
+
+- ## Charts
+
+![Donut chart showing 26.5% of customers left and 73.5% stayed](churn_donut.png)
+
+![Bar chart of churn rate by contract type](churn_by_contract.png)
+
+![Bar chart of churn rate by tenure group](churn_by_tenure.png)
 
 ## Recommendation
 Focus on keeping customers through their first year, for example by offering discounted rates for the first few months and a discount for switching to a one-year contract.
