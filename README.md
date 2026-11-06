@@ -46,6 +46,8 @@ Focus on keeping customers through their first year, for example by offering dis
 ## Files
 - [`churn_analysis.ipynb`](churn_analysis.ipynb): the full analysis with code, charts and notes
 - [`telecom_churn_clean.csv`](telecom_churn_clean.csv): the cleaned dataset
+
+  **See also:** the [Power BI dashboard version](https://github.com/Yesiratganiyu/telecom-churn-powerbi-dashboard) of this analysis.
   
 ## Author
 **Yesirat Ganiyu**: [LinkedIn](https://www.linkedin.com/in/yesirat-ganiyu/)
